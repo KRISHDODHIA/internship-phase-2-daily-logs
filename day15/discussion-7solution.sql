@@ -112,4 +112,4 @@
 
 --22 Write a query to get nth max salaries of employees.
 
-
+ 
